@@ -1,3 +1,3 @@
-module github.com/avinilcodes/GoModule.git
+module github.com/avinilcodes/gomodules
 
 go 1.17
